@@ -31,7 +31,14 @@ scanf("%s", &Nome_da_Cidade);
 printf("População:\n");
 scanf("%d", &População);
 
+printf("Área:\n");
+scanf("%f", &Área);
 
+printf("PIB:\n");
+scanf("%f", &PIB);
+
+printf("Número_de_Pontos_Turísticos:\n");
+scanf("%d", &Número_de_Pontos_Turísticos);
   // Área para exibição dos dados da cidade
 
 return 0;
